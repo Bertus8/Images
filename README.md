@@ -1,0 +1,2 @@
+# Images
+React/Meteor project
